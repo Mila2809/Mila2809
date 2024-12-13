@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Mila !
 
-<!--
-**Mila2809/Mila2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en développement Full Stack, passionnée par la création de site web modernes et performantes.
 
-Here are some ideas to get you started:
+💡 **Mes objectifs** :
+- Devenir développeuse Full Stack.
+- Continuer à apprendre de nouvelles technologies comme TypeScript, Docker, et bien plus !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Technologies en cours d'apprentissage** :
+- Frontend : HTML, CSS, JavaScript, React, Tailwind, Sass
+- Backend : Node.js, Express, php, Python, Symfony
+- Base de données : SQL
+- Autres : Git, API REST, Postman, Figma, Illustrator
+
+🌟 **Projets clés :**
+- [**Portfolio**]( en constructions ... ) : Portfolio qui présente mes projets. ( ... )
+- [**Pokemon**](https://github.com/votre-projet-2) : Site de combat de pokemon. ( php + CSS + JavaScript + SQL )
+- [**Harry Potter**](https://github.com/votre-projet-2) : Site de cartes Harry Potter. ( HTML + CSS + JavaScript + SQL )
+- [**Bot**]( en constructions ... ) : Bot discord. ( ... )
+
+📫 **Contactez-moi** :
+- ✉️ Email : paounovm@gmail.com
+- 🌐 LinkedIn : [Mila PAOUNOV](https://www.linkedin.com/in/mila-paounov-759935291/)
