@@ -14,8 +14,8 @@
 
 🌟 **Projets clés :**
 - [**Portfolio**]( en constructions ... ) : Portfolio qui présente mes projets. ( ... )
-- [**Pokemon**](https://github.com/votre-projet-2) : Site de combat de pokemon. ( php + CSS + JavaScript + SQL )
-- [**Harry Potter**](https://github.com/votre-projet-2) : Site de cartes Harry Potter. ( HTML + CSS + JavaScript + SQL )
+- [**Pokemon**](https://github.com/AS-Ven/pokemonBattle) : Site de combat de pokemon. ( php + CSS + JavaScript + SQL )
+- [**Harry Potter**](https://github.com/Mila2809/Site-Carte-API-HP) : Site de cartes Harry Potter. ( HTML + CSS + JavaScript + SQL )
 - [**Bot**]( en constructions ... ) : Bot discord. ( ... )
 
 📫 **Contactez-moi** :
