@@ -1,23 +1,23 @@
-# 👋 Bonjour, je suis Mila !
+# 👋 Hi, I'm Mila!
 
-🎓 Étudiante en développement Full Stack, passionnée par la création de site web modernes et performantes.
+🎓 Full Stack development student, passionate about creating modern and high-performing websites.
 
-💡 **Mes objectifs** :
-- Devenir développeuse Full Stack.
-- Continuer à apprendre de nouvelles technologies comme TypeScript, Docker, et bien plus !
+💡 **My Goals** :
+- Become a Full Stack Developer.
+- Keep learning new technologies like TypeScript, Docker, and more!
 
-🚀 **Technologies en cours d'apprentissage** :
+## 🚀 **Technologies I'm Learning** :
 - Frontend : HTML, CSS, JavaScript, React, Tailwind, Sass
-- Backend : Node.js, Express, php, Python, Symfony
+- Backend : Node.js, Express, PHP, Python, Symfony
 - Base de données : SQL
 - Autres : Git, API REST, Postman, Figma, Illustrator
 
-🌟 **Projets clés :**
-- [**Portfolio**]( en constructions ... ) : Portfolio qui présente mes projets. ( ... )
-- [**Pokemon**](https://github.com/AS-Ven/pokemonBattle) : Site de combat de pokemon. ( php + CSS + JavaScript + SQL )
-- [**Harry Potter**](https://github.com/Mila2809/Site-Carte-API-HP) : Site de cartes Harry Potter. ( HTML + CSS + JavaScript + SQL )
-- [**Bot**]( en constructions ... ) : Bot discord. ( ... )
+🌟 **Key Projects** :
+- [**Portfolio**]( under construction... ) :  A portfolio showcasing my projects, skills, and experience. ( ... )
+- [**Pokemon**](https://github.com/AS-Ven/pokemonBattle) : A web application for Pokémon battles with user management features. ( php + CSS + JavaScript + SQL )
+- [**Harry Potter**](https://github.com/Mila2809/Site-Carte-API-HP) : An interactive website with Harry Potter cards and rankings.   ( HTML + CSS + JavaScript + SQL )
+- [**Bot**]( under construction... ) : Bot discord. ( ... )
 
-📫 **Contactez-moi** :
-- ✉️ Email : paounovm@gmail.com
-- 🌐 LinkedIn : [Mila PAOUNOV](https://www.linkedin.com/in/mila-paounov-759935291/)
+## 📫 **Contact Me**
+- ✉️ **Email**: paounovm@gmail.com  
+- 🌐 **LinkedIn**: [Mila PAOUNOV](https://www.linkedin.com/in/mila-paounov-759935291/)
