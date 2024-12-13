@@ -7,17 +7,7 @@
 - Keep learning new technologies like TypeScript, Docker, and more!
 
 ## 🚀 **Technologies I'm Learning** :
-<img src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg"></img>
-<img src="https://devicon-website.vercel.app/api/python/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/php/original.svg"></img>
-
-<img src="https://devicon-website.vercel.app/api/git/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/vscode/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/figma/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/illustrator/plain.svg"></img>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,tailwind,python,php,git,vscode,figma,illustrator)](https://skillicons.dev)
 
 
 
