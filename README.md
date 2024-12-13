@@ -6,10 +6,10 @@
 - Become a Full Stack Developer.
 - Keep learning new technologies like TypeScript, Docker, and more!
 
-🚀 **Technologies I'm Learning** :
+## 🚀 **Technologies I'm Learning** :
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,python,php,mysql,symfony,sass)](https://skillicons.dev)
 
-🚀 **Tools I use** :
+## 🚀 **Tools I use** :
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,postman,figma,illustrator,notion)](https://skillicons.dev)
 
 🌟 **Key Projects** :
