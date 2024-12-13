@@ -7,10 +7,19 @@
 - Keep learning new technologies like TypeScript, Docker, and more!
 
 ## 🚀 **Technologies I'm Learning** :
-- Frontend : HTML, CSS, JavaScript, React, Tailwind, Sass
-- Backend : Node.js, Express, PHP, Python, Symfony
-- Base de données : SQL
-- Autres : Git, API REST, Postman, Figma, Illustrator
+<img src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg"></img>
+<img src="https://devicon-website.vercel.app/api/python/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/php/original.svg"></img>
+
+<img src="https://devicon-website.vercel.app/api/git/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/vscode/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/figma/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/illustrator/plain.svg"></img>
+
+
 
 🌟 **Key Projects** :
 - [**Portfolio**]( under construction... ) :  A portfolio showcasing my projects, skills, and experience. ( ... )
