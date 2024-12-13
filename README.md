@@ -7,7 +7,7 @@
 - Keep learning new technologies like TypeScript, Docker, and more!
 
 ## 🚀 **Technologies I'm Learning** :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,tailwind,python,php,git,vscode,figma,illustrator)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,python,php,git,vscode,figma,illustrator)](https://skillicons.dev)
 
 
 
